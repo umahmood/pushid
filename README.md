@@ -62,7 +62,7 @@ Output:
 
 # Documentation
 
-> [https://pkg.go.dev/github.com/umahmood/pushid]()
+> https://pkg.go.dev/github.com/umahmood/pushid
 
 # Resources
 
